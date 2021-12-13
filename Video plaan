@@ -9,3 +9,25 @@ motivation  -  we want to make estonia safer for our families. for our children.
 goal  -  Predict crime type depending on the location. For you to know what locations to avoid.
 audience to learn about project  -  where in estonia most of the crimes take place? what are the most common crimes? What are good DS tactics to predict crimes?
 attract audience for poster demo  -  we will do a live demo were we expose criminals
+
+
+intro 
+	- lihtsalt hi +  cobra
+who 
+	- rasmus and toomas 2nd year cs students
+what
+	- our datascience project about crime
+why
+	- motivation: we want to make estonia safer for our families. for our children. even for other estonians. for that we decided to use our strengths. we came to ut to not be policemen but to be data sceientists.
+	- why not
+
+goal
+	- predict what crime is the most likely at a given location and at a given time
+	- visualize on a map
+
+result
+	- most common crime is theft and most of the material damages were really small
+	- heh come and see the live demo
+
+are we happy
+	- mingi meme peale lõigata
